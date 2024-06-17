@@ -38,6 +38,18 @@ Functions (or methods) in Java encapsulate reusable blocks of code, enhancing co
 
 Object-Oriented Programming (OOP) in Java revolves around classes and objects. Classes define blueprints for creating objects, encapsulating data (attributes) and behaviors (methods). OOP principles like inheritance, polymorphism, encapsulation, and abstraction promote code reusability, scalability, and maintainability in Java development.
 
+### The main classes explored
+
+- Scanner;
+- Math;
+- Array;
+- ArrayList;
+- String;
+- Classes do JavaFX;
+- JOPane;
+- Qeue;
+- Stack;
+- Collections;
 ---
 
 
