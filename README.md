@@ -1,4 +1,10 @@
 # Programing Language 1/4
+list 1 -> https://github.com/KauanIzidoro/list_01 
+list 2 -> https://github.com/KauanIzidoro/list_02
+list 3 -> https://github.com/KauanIzidoro/list_03
+list 4 -> https://github.com/KauanIzidoro/list_04
+list 5 -> https://github.com/KauanIzidoro/list_05
+list 6 -> https://github.com/KauanIzidoro/list_06
 
 ## Topics Covered This Semester:
 1. Basic Operations
