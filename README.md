@@ -45,11 +45,12 @@ Object-Oriented Programming (OOP) in Java revolves around classes and objects. C
 - Array;
 - ArrayList;
 - String;
-- Classes do JavaFX;
+- JavaFX Class;
 - JOPane;
 - Qeue;
 - Stack;
 - Collections;
+- Object.
 ---
 
 
